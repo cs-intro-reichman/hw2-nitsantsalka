@@ -19,10 +19,10 @@ public class Cheers {
                 letter = name.charAt(i);
                 if (anLetter.indexOf(letter) >= 0)
                 {
-                     System.out.println("give me an " + letter +": " + letter + "!");   
+                     System.out.println("Give me an " + letter +": " + letter + "!");   
                 }
                 else{
-                     System.out.println("give me a " + letter +": " + letter + "!");
+                     System.out.println("Give me a " + letter +": " + letter + "!");
                 }
                 i++;
           }  
